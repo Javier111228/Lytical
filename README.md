@@ -1,4 +1,7 @@
-# <a href="https://lytical.app/"><img src="https://lytical.app/images/Logo.png" width="36" alt="Lytical Logo" title="Lyitcal Logo"></a> Lytical
+<!---
+Javier111228/Javier111228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---># <a href="https://lytical.app/"><img src="https://lytical.app/images/Logo.png" width="36" alt="Lytical Logo" title="Lyitcal Logo"></a> Lytical
 
 Lytical is an open source League of Legends statistics and profile analytics tool for all regions including Garena & WeGame
 
